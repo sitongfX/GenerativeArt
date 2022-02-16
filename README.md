@@ -2,9 +2,8 @@
 
 This project is a collaborative effort to demostrate the generative side of computational art.
 The specific artistic vision and visual display can be found here: https://water-honeydew-380.notion.site/Generative-Art-089ead419a03436f984450d8fe813835
-![text display](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93fb090c-94bc-4691-bb7b-a9432e15125a/Screen_Shot_2022-02-16_at_1.03.03_AM.png)
 
-text display
+
 
 ## Technical Guide
 
